@@ -34,7 +34,7 @@ const PortadaMistica = () => {
       {/* Frase inspiracional */}
       <div className="border-t border-purple-200 pt-6 max-w-sm">
         <p className="text-sm italic text-purple-700">
-          "Guiando almas a través de la transformación con sabiduría y amor"
+          &quot;Guiando almas a través de la transformación con sabiduría y amor&quot;
         </p>
       </div>
 
